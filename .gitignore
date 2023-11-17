@@ -1,0 +1,6 @@
+libs/
+*.jpg
+*.mp4
+*.mov
+*.DS_Store
+*csv
