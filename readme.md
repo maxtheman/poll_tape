@@ -9,7 +9,11 @@ The accuracy of the program depends on the quality of the input data and has not
 
 It currently generates errors ~30% of the time, but those seem mostly to be when the image is too blurry to process. I expect you could update the schema to handle those cases.
 
+All usages expect jpg images in the data directory. subdirectories within at least one level have been tested and work too.
+
 Built on python 3.10.10.
+
+Start by cloning this project.
 
 ## Instructions for Command Line Usage:
 1. Navigate to the project directory in your terminal.
